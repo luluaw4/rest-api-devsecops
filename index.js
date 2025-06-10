@@ -14,5 +14,5 @@ app.post("/books", (req, res) => {
 });
 
 app.listen(3000, "0.0.0.0", () => {
-  console.log("API aktif di http://103.189.234.233:3000");
+  console.log("API aktif di http://192.168.1.18:3000");
 });
